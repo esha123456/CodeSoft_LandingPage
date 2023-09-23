@@ -1,2 +1,2 @@
-# CodeSoft_LandingPage
+# CodSoft_LandingPage
 CODESOFT WEBDEVELOPMENT INTERNSHIP Level 1 Task 1(LandingPage)
